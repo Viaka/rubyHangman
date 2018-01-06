@@ -1,0 +1,17 @@
+--- !ruby/object:Game
+game_word: appease
+guesses_left: 1
+correct_guess:
+- _
+- _
+- _
+- _
+- _
+- _
+- _
+wrong_guesses:
+- z
+- z
+- z
+- z
+- z
